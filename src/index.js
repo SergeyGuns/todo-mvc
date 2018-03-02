@@ -5,12 +5,13 @@ class Model {
         {
           id: 51234,
           text: 'work it',
-          checked: false
+          checked: false 
         },
         {
           id: 51234,
-          text: 'work',
+          text: 'work', 
           checked: false
+          
         },
       ]
     }
