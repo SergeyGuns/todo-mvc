@@ -29,7 +29,7 @@ class Model {
 
 class Controller {
   constructor(model) {
-
+    
   }
   add (listText, model) {
     let newTodoList = model.todoList
